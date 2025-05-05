@@ -1,6 +1,11 @@
 # Lab 3 – Sorting Hat (ESP32 + Machine Learning)
 
+
+
 <video src="demo.mp4" controls width="600"></video>
+
+
+
 
 ## Reflections and System Improvements
 
